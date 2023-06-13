@@ -178,6 +178,11 @@ end
 endmodule
 ```
 
+
+
+
+
+
 ## T FLIPFLOP:
 ```
 module flipflopt(T,clk,Q,Qbar);
